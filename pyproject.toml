@@ -1,0 +1,6 @@
+[tool.pyright]
+include = ["."]
+exclude = []
+reportMissingImports = "none"
+extraPaths = ["."]
+

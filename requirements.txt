@@ -1,0 +1,7 @@
+python-dotenv>=1.0.0
+
+# 可选：如果你想把“判分/回应生成”接到大模型
+openai>=1.40.0
+
+# 可选：Web UI
+streamlit>=1.38.0
